@@ -5,8 +5,12 @@
 🔭 Doing research in the field of Machine Learning and Deep Learning.
 
 👨🏻‍💻 I’m currently working on pure C++ Statistics and Bayesian NN toolkit.
+### 🏆Awards
+* ICPC Northern Eurasia Finals 2024 --- Third degree diploma
+* International Zhautykov Olympiad in Informatics --- Bronze Medal
+* Belarusian Olympiad in Informatics --- Silver Medal
 
-### Skills⚡
+### ⚡Skills
 * Languages: Python, C/C++, Bash, Wolfram Mathematica, Matlab
 * Developer tools: Git, VS Code, Linux, CMake, Bazel, VIM  
 * Libraries: pandas, NumPy, Matplotlib, scikit-learn, scipy, sympy, Catboost, PyTorch, Seaborn, OpenCV, Keras, TensorFlow
